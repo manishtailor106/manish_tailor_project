@@ -1,1 +1,1 @@
-# manish_tailor_project
+# Linear-Regression_Project-on_ML
